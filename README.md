@@ -1,4 +1,4 @@
-# Canada Data Jobs 2024 - Preparação de dados - Dashboard de protótipo
+# Canada Data Jobs 2024 - Data Preparation - Prototype Dashboard
 
 Project to create Python scripts for preparing (cleaning and organizing) Canadian job vacancy data 
 from the beginning of 2024. 
