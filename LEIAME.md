@@ -9,6 +9,7 @@ Os dados foram obtidos a partir do LinkedIn e postados no Kaggle por outro pesso
 ## Arquivos
 Os arquivos do projeto são:
 - `dashboard/DashboardPrototype-CanadaDataJobs.jpg`: imagem do protótipo de dashboard;
+- `dashboard/DashboardPrototype-CanadaDataJobs-V2.jpg`: imagem da versão 2 do protótipo de dashboard;
 - `dashboard/DashboardPrototype-CanadaDataJobs.pbix`: arquivo do Microsoft Power BI para o protótipo de dashboard;
 - `dashboard/DashboardPrototype-CanadaDataJobs.pdf`: pdf com imagem do protótipo de dashboard;
 - `data/linkedin_canada.csv`: dados originais obtidos no Kaggle;

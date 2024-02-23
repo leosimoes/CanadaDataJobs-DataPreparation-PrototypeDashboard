@@ -9,6 +9,7 @@ The data was obtained from LinkedIn and posted on Kaggle by another person.
 ## Files
 The project files are:
 - `dashboard/DashboardPrototype-CanadaDataJobs.jpg`: image of the dashboard prototype;
+- `dashboard/DashboardPrototype-CanadaDataJobs-V2.jpg`: image of version 2 of the dashboard prototype;
 - `dashboard/DashboardPrototype-CanadaDataJobs.pbix`: Microsoft Power BI file for the dashboard prototype;
 - `dashboard/DashboardPrototype-CanadaDataJobs.pdf`: pdf with image of the dashboard prototype;
 - `data/linkedin_canada.csv`: original data obtained from Kaggle;
@@ -24,7 +25,7 @@ The project files are:
 For the cleaned and filtered data from `data/dataset.csv`, a dashboard prototype was created using Microsoft
 PowerBI:
 
-![Image-DashboardPrototype](dashboard/DashboardPrototype-CanadaDataJobs.jpg)
+![Image-DashboardPrototype](dashboard/DashboardPrototype-CanadaDataJobs-V2.jpg)
 
 
 ## References
